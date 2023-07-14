@@ -1,0 +1,31 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gpshopper.stadiumgoods",
+      "sha256_cert_fingerprints": [
+        "F0:B3:A7:AF:0B:87:C8:B7:9A:71:09:AB:74:99:BC:23:AC:25:BC:99:24:48:DC:94:E3:3D:83:4C:E1:59:0A:1A",
+        "4F:FC:23:2C:61:B3:1F:E2:30:B2:0B:2F:33:F5:96:B1:77:EC:A7:9E:70:91:1B:69:66:8B:FB:63:B0:8A:C3:78"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "web",
+      "site": "https://www.stadiumgoods.com"
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gpshopper.stadiumgoods",
+      "sha256_cert_fingerprints": [
+        "F0:B3:A7:AF:0B:87:C8:B7:9A:71:09:AB:74:99:BC:23:AC:25:BC:99:24:48:DC:94:E3:3D:83:4C:E1:59:0A:1A",
+        "4F:FC:23:2C:61:B3:1F:E2:30:B2:0B:2F:33:F5:96:B1:77:EC:A7:9E:70:91:1B:69:66:8B:FB:63:B0:8A:C3:78"
+      ]
+    }
+  }
+]
